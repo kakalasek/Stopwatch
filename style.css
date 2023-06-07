@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+#sw{
+    font-size: 50px;
+    color: green;
+    text-align: center;
+}
+
+.bt{
+    font-size: 200%;
+    padding: 7px;
+}
